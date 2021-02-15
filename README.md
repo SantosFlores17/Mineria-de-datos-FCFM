@@ -1,2 +1,4 @@
 # Mineria-de-datos-FCFM
-Clase de mineria de datos.
+
+##Fase 1
+[Mapa mental 1] 
