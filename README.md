@@ -1,4 +1,11 @@
 # Mineria-de-datos-FCFM
 
-##Fase 1
-[Mapa mental 1] 
+## Fase I
+
+[Mapa Mental I]
+
+[Ejercicio de Bases de datos]
+## Fase II
+
+
+## Fase III
