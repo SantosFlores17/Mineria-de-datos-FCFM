@@ -6,7 +6,7 @@
 
 [Ejercicio de Bases de datos](https://github.com/TennetA0/Mineria_FCFM/blob/main/Ej1_BasesDatos_Equipo_8.pdf) 
 
-[Ejercicios básicos de python]()
+[Ejercicios básicos de python](https://github.com/SantosFlores17/Mineria-de-datos-FCFM/blob/main/Tareas/Ej_python_1796650.ipynb)
 
 [Ejercicio Limpieza de datos](https://github.com/TennetA0/Mineria_FCFM/blob/main/EJ_Limpieza_Equipo8.ipynb)
 
