@@ -10,7 +10,10 @@
 
 [Ejercicio Limpieza de datos](https://github.com/TennetA0/Mineria_FCFM/blob/main/EJ_Limpieza_Equipo8.ipynb)
 
+[Primera entrega del PIA.](https://github.com/TennetA0/Mineria_FCFM/blob/main/Avance1_PIA_Equipo8.ipynb)
+
 ## Fase II
+
 
 
 ## Fase III
