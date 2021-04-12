@@ -17,4 +17,7 @@
 
 [Miniexamen Serie de tiempo](https://github.com/TennetA0/Mineria_FCFM/blob/main/Trabajos/Calificaci%C3%B3n_Series-de-Tiempo_Equipo-8.pdf) 
 
+[Visualizacion de datos](https://github.com/TennetA0/Mineria_FCFM/blob/main/Trabajos/Visualizaci%C3%B3n_Equipo8.ipynb)
+
+[Segundo avance del pia](https://github.com/TennetA0/Mineria_FCFM/blob/main/Trabajos/AvancePIA_II_Grupo3_8.ipynb)
 ## Fase III
