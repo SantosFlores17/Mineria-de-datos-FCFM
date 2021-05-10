@@ -21,3 +21,4 @@
 
 [Segundo avance del pia](https://github.com/TennetA0/Mineria_FCFM/blob/main/Trabajos/AvancePIA_II_Grupo3_8.ipynb)
 ## Fase III
+[PIA](https://github.com/TennetA0/Mineria_FCFM/blob/main/Trabajos/Inversi%C3%B3n%20a%20futuro.pdf)
